@@ -74,7 +74,15 @@ Preprocessing steps included:
 - Explore advanced machine learning models like XGBoost or LightGBM for better accuracy  
 - Implement automated model retraining with new resale transactions  
 - Develop a more interactive dashboard with filters and price comparisons  
-- Add feature importance visualization for better model interpretability  
+- Add feature importance visualization for better model interpretability
+
+
+
+## 🖼 Project Screenshot
+
+Below is a preview of the deployed Streamlit app:
+
+![App Screenshot]()
 
 
 ## 📁 Project Structure
