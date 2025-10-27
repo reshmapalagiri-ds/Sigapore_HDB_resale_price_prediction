@@ -77,12 +77,12 @@ Preprocessing steps included:
 - Add feature importance visualization for better model interpretability
 
 
-
 ## 🖼 Project Screenshot
 
 Below is a preview of the deployed Streamlit app:
 
-![App Screenshot]()
+![App Screenshot](<img width="598" height="784" alt="image" src="https://github.com/user-attachments/assets/4695e463-c230-41ce-9cd8-bf4382e242cd" />
+)
 
 
 ## 📁 Project Structure
