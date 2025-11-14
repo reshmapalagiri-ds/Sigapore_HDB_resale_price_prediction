@@ -81,7 +81,7 @@ Preprocessing steps included:
 
 Below is a preview of the deployed Streamlit app:
 
-![App Screenshot](https://github.com/reshmapalagiri-ds/Sigapore_HDB_resale_price_prediction/blob/main/Singapore%20project.png?raw=true)
+![App Screenshot](https://github.com/reshmapalagiri-ds/Sigapore_HDB_resale_price_prediction/blob/main/image.png?raw=true)
 
 ## 📁 Project Structure
 
