@@ -81,7 +81,7 @@ Preprocessing steps included:
 
 Below is a preview of the deployed Streamlit app:
 
-![App Screenshot](<img width="598" height="784" alt="HBD web interface" src="https://github.com/user-attachments/assets/b65def82-2742-448f-b582-15c79911586d" />
+![App Screenshot](<img width="598" height="784" alt="HBD web interface" src="https://github.com/user-attachments/assets/b65def82-2742-448f-b582-15c79911586d" />)
 
 ## 📁 Project Structure
 
